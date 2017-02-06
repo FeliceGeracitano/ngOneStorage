@@ -17,6 +17,8 @@
   },
   "author": "",
   "license": "ISC",
+  "url" : "https://github.com/FeliceGeracitano/ngOneStorage",
+  "email" : "felice.geracitano@gmail.com",
   "devDependencies": {
     "angular": "^1.6.1",
     "babel-core": "^6.21.0",
