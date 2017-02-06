@@ -1,6 +1,6 @@
 {
   "name": "ng-one-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular service to handle local|session|cookie",
   "main": "dist/ng-one-storage.js",
   "scripts": {
@@ -17,8 +17,8 @@
   },
   "author": "",
   "license": "ISC",
-  "url" : "https://github.com/FeliceGeracitano/ngOneStorage",
-  "email" : "felice.geracitano@gmail.com",
+  "url": "https://github.com/FeliceGeracitano/ngOneStorage",
+  "email": "felice.geracitano@gmail.com",
   "devDependencies": {
     "angular": "^1.6.1",
     "babel-core": "^6.21.0",
