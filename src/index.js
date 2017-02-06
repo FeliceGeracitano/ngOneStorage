@@ -1,6 +1,7 @@
 import angular from 'angular';
 
 (((ng) => {
+  // TODO: use angular $cookies provider
   class CookieManager {
     static getItem(key) {
       const result = document.cookie.match(new RegExp(`${key}=([^;]+)`));
