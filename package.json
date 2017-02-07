@@ -1,6 +1,6 @@
 {
   "name": "ng-one-storage",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An angular service to handle local|session|cookie",
   "main": "dist/ng-one-storage.js",
   "scripts": {
