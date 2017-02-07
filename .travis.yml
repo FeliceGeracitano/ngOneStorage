@@ -3,5 +3,5 @@ node_js:
   - "6.9.5"
 script:
   - npm run publish
-  - npm patch
+  - npm version patch
   - npm publish
