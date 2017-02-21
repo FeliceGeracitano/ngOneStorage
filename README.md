@@ -2,5 +2,5 @@
 # ngOneStorage
 
 
-# Installation
+## Installation
 npm install ng-one-storage
